@@ -5,16 +5,25 @@
 body{
     padding:0;
     margin: 0;
+    width: 100vh;
+    height:100vh;
+    display:flex;
+    flex-direction: column;
 }
 
 .column{
-    dipslay: flex;
+    display: flex;
     flex-direction: column;
 }
 
 .row {
     display: flex;
     flex-direction: row;
+}
+
+.main{
+    flex:1;
+    justify-content: space-evenly;
 }
 .first{
     background-color: #1F2937;
