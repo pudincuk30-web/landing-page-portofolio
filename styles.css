@@ -78,6 +78,8 @@ button{
     flex:1;
     justify-content: flex-start;
     align-items: center;
+    padding: 24px;
+    gap: 24px;
 }
 
 .sheader{
