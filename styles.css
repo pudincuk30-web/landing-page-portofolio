@@ -59,6 +59,7 @@ body{
 }
 
 button{
+    font-size:18px;
     color: #F9FAF8;
     background-color: #3882F6 ;
     border: 0px solid black;
