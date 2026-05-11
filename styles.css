@@ -74,6 +74,12 @@ button{
     height: 40px;
 }
 
+.second{
+    flex:1;
+    justify-content: flex-start;
+    align-items: center;
+}
+
 .sheader{
     font-size: 36px;
     font-weight:900;
