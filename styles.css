@@ -23,12 +23,17 @@ body{
     flex:1;
 }
 
+.header{
+    justify-content: space-between;
+}
+
 .logo{
     font-size:24px;
     color:#F9FAF8;
 }
 
 .hlinks{
+    gap: 16px;
     font-size:18px;
     color:#E5E7EB;
 }
