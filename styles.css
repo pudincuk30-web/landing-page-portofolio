@@ -126,4 +126,6 @@ button{
 .sign {
     margin:auto;
     background-color: #3882F6;
+    border-radius: 8px;
+    padding: 24px;
 }
