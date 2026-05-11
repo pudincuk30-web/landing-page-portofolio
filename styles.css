@@ -87,3 +87,14 @@ button{
     font-weight:900;
     color:#1F2937;
 }
+.cards{
+    gap: 5px;
+}
+.card{
+    align-items: center;
+    text-align: center;
+}
+
+.card img{
+    width: 80%;
+}
