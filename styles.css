@@ -30,6 +30,7 @@ body{
     margin:0px;
     padding:24px;
     flex:1;
+    justify-content: space-around;
 }
 
 .header{
@@ -45,4 +46,25 @@ body{
     gap: 16px;
     font-size:18px;
     color:#E5E7EB;
+}
+
+.thick{
+    font-size:48px;
+    color:#F9FAF8;
+    font-weight:800;
+}
+
+.thin{
+    font-size:18px;
+}
+
+button{
+    color: #F9FAF8;
+    background-color: #3882F6 ;
+    border: 0px solid black;
+    padding: 4px 16px;
+    border-radius:8px;
+    box-sizing: border-box;
+    width: 160px;
+    height: 40px;
 }
