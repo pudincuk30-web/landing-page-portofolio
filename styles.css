@@ -106,7 +106,7 @@ button{
     background-color: #E5E7EB;
     justify-content: center;
     align-items: center;
-    padding: 50px;
+    padding: 24px;
 }
 
 .quote{
@@ -122,7 +122,7 @@ button{
 
 .fourth {
     flex:1;
-    padding: 50px;
+    padding: 24px;
     flex-basis: 100vm;
 }
 
