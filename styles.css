@@ -76,6 +76,10 @@ button{
     height: 40px;
 }
 
+.content{
+    gap: 10px;
+}
+
 .second{
     flex:1;
     justify-content: center;
