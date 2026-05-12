@@ -127,14 +127,14 @@ button{
 }
 
 .sign {
-    flex: 1;
     margin:auto;
     background-color: #3882F6;
     border-radius: 8px;
-    padding: 24px;
+    padding: 50px;
     justify-content: space-between;
     gap: 20px;
-    flex-basis:px;
+    box-sizing: border-box;
+    width: 80vw;
 }
 
 .head{
