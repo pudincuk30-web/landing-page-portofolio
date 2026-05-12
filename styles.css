@@ -145,3 +145,11 @@ button{
     border-radius: 8px;
     border: 2px solid white;
 }
+
+.footer{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: #1F2937;
+}
