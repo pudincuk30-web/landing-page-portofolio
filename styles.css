@@ -1,7 +1,3 @@
-*{
-    font-family:Roboto;
-}
-
 body{
     padding:0;
     margin: 0;
@@ -9,6 +5,7 @@ body{
     height: auto;
     display:flex;
     flex-direction: column;
+    font-family: Roboto;
 }
 
 .column{
@@ -42,6 +39,8 @@ body{
 .logo{
     font-size:24px;
     color:#F9FAF8;
+    font-family: Roboto;
+    font-weight: 800;
 }
 
 .hlinks{
@@ -150,6 +149,8 @@ button{
 .sbutton{
     border-radius: 8px;
     border: 2px solid white;
+    justify-content: center;
+    align-items: center;
 }
 
 .footer{
