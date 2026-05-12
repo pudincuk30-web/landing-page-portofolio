@@ -78,6 +78,7 @@ button{
 
 .content{
     gap: 10px;
+    justify-content: space-around;
 }
 
 .second{
