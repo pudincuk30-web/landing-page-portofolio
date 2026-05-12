@@ -23,8 +23,9 @@ body{
 
 
 .main{
-    flex:1;
     justify-content: space-evenly;
+    flex-direction: column;
+    height:2000px;
 }
 .first{
     background-color: #1F2937;
